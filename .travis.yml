@@ -9,6 +9,7 @@ python:
 
 branches:
   only:
+    - recent_requirements
     - master
     - v0.6
     - v0.5
